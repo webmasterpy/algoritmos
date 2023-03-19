@@ -1,3 +1,6 @@
+// Crea display() que devuelva una cadena que contiene todos los valores de la lista. 
+// ¡Crea lo que quisieras que hiciera console.log(myList)!
+
 class SSL {
     constructor() {
       this.head = null;
